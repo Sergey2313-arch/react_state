@@ -23,3 +23,5 @@ npm start
 ```text
 https://sergey2313-arch.github.io/react_state
 ```
+
+Deployment: GitHub Actions.
